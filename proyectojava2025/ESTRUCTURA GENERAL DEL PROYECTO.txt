@@ -1,9 +1,0 @@
-com.techlab
-├── controller
-├── dto
-├── entity
-├── exception
-├── repository
-├── service
-├── service.impl
-└── config
